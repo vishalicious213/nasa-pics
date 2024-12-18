@@ -37,7 +37,6 @@ h3 {
 }
 
 input {
-  margin: 1rem 0 .5rem 5%;
   font-size: 2rem;
 }
 
@@ -47,5 +46,11 @@ button {
 }
 
 #buttons {
-  margin: 0 0 1rem 5%;
+  margin-left: .5rem;
+}
+
+#controls {
+  displaY: flex;
+  align-items: center;
+  margin: 1rem 0 1rem 5%;
 }
